@@ -4,44 +4,44 @@ The Course Content Was :
 
 1- Introduction to java :
 
-  • Lesson 1: Introduction to Java
+ 	 • Lesson 1: Introduction to Java
 	
-  • Lesson 2: Basic Java Concepts
+	 • Lesson 2: Basic Java Concepts
 	
-  • Lesson 3: Applets
+ 	 • Lesson 3: Applets
 	
-  • Lesson 4: Data Types & Operators
+	 • Lesson 4: Data Types & Operators
 	
-  • Lesson 5: using Arrays & Strings
+ 	 • Lesson 5: using Arrays & Strings
 	
-  • Lesson 6: Controlling Program Flow
+ 	 • Lesson 6: Controlling Program Flow
 	
-  • Lesson7: Java Exception
+ 	 • Lesson7: Java Exception
 	
-  • Lesson 8: Interfaces
+	 • Lesson 8: Interfaces
 	
-  • Lesson 9: Multi-Threading
+  	 • Lesson 9: Multi-Threading
 	
-  • Lesson 10: Inner class
+	 • Lesson 10: Inner class
 	
-  • Lesson 11: Event Handling
+  	• Lesson 11: Event Handling
   
 2- Java for machine Learning:
 
-   • Introduction to UML
+   	• Introduction to UML
 	 
-   • Built-in data structures and Functional Java APIs
+  	 • Built-in data structures and Functional Java APIs
 	 
-   • Basics of UML and OOP
+  	 • Basics of UML and OOP
 	 
-   • File handling and Data Extraction
+  	 • File handling and Data Extraction
 	 
-   • Dataset Preparation_updated
+  	 • Dataset Preparation_updated
 	 
-   • Maven tooling and Xcharts integration
+  	 • Maven tooling and Xcharts integration
 	 
-   • Smile and Spark Integration
+  	 • Smile and Spark Integration
 	 
-   • Session with SPARK
+  	 • Session with SPARK
 	 
-   • Exposing Rest Services In Java
+  	 • Exposing Rest Services In Java
