@@ -1,4 +1,4 @@
-#  Java projects for ML & Data Science
+#  Java & UML for ML & Data Science Course Projects
 Some Java Appliication That i coded in Java Course in Artificial intelligence Profissionals Diploma at Egyptian Information Technology Institute
 The Course Content Was :
 
