@@ -1,5 +1,8 @@
 #  Java & UML for ML & Data Science Course Projects
-Some Java Appliication That i coded in Java Course in Artificial intelligence Profissionals Diploma at Egyptian Information Technology Institute
+Some Java Appliication That i coded in Java Course in "Artificial intelligence Profissionals Diploma" introduced by  Egyptian Information Technology Institute [ITI](https://www.ITI.gov.eg)  & EPITA - School of Engineering and Computer Science
+ [EPITA](https://www.epita.fr/)
+
+
 The Course Content Was :
 
 1- Introduction to java :
